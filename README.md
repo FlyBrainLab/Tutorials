@@ -1,7 +1,7 @@
 # Tutorials
 This repository contains a collection of tutorials on FlyBrainLab covering the basics and some applications.
 
-## Recent Updates
+### Recent Updates
 
 **September 8, 2020** Three new tutorials are available:
 * [Loading Neuron Morphology Data into FBL](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/swc_loading_tutorial/swc_loading.ipynb)
@@ -15,7 +15,7 @@ This repository contains a collection of tutorials on FlyBrainLab covering the b
 **July 22, 2020** A tutorial on olfactory sensory neuron morphology and ephys recordings is now available:
 * [Olfactory Sensory Neurons: Electrophysiology and Morphology](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/osn_ephys_tutorial/OSN_ephys_tutorial.ipynb)
 
-# List of Tutorials
+## List of Tutorials
 
 ### Introductory
 * [Introduction to FBL Series](https://github.com/FlyBrainLab/Tutorials/tree/master/tutorials/getting_started)

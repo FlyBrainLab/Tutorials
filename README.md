@@ -1,5 +1,5 @@
-# Tutorials
-This repository contains a collection of tutorials on FlyBrainLab covering the basics and some applications.
+# FlyBrainLab Tutorials
+This repository contains a collection of tutorials on FlyBrainLab covering the capabilities of FlyBrainLab such as querying and visualizing morphology data, analyzing visualized circuits as well as a number of applications.
 
 ### Recent Updates
 
@@ -18,7 +18,7 @@ This repository contains a collection of tutorials on FlyBrainLab covering the b
 ## List of Tutorials
 
 ### Introductory
-* [Introduction to FBL Series](https://github.com/FlyBrainLab/Tutorials/tree/master/tutorials/getting_started)
+* [Introduction to FBL: Getting Started](https://github.com/FlyBrainLab/Tutorials/tree/master/tutorials/getting_started)
 * [Application Example: Olfactory Sensory Neurons: Electrophysiology and Morphology](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/osn_ephys_tutorial/OSN_ephys_tutorial.ipynb)
 
 ### Intermediate

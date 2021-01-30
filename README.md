@@ -25,3 +25,6 @@ This repository contains a collection of tutorials on FlyBrainLab covering the c
 * [Loading Neuron Morphology Data into FBL](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/swc_loading_tutorial/swc_loading.ipynb)
 * [Retrieving and Parsing Information on Neurons](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/neuron_information_tutorial/neuron_information.ipynb)
 * [Generating Diagrams with FlyBrainLab](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/diagram_generation_tutorial/generate_diagram.ipynb)
+
+### Advanced
+* [Creating an Interactive Executable Circuit Model of the Lamina Cartridge](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/cartridge/Cartridge.ipynb)

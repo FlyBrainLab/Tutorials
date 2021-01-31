@@ -4,7 +4,7 @@ This repository contains a collection of tutorials on FlyBrainLab covering the c
 ## List of Tutorials
 
 ### Introductory
-* <span style="color:red">Updated!</span> [Introduction to FBL: Getting Started](https://github.com/FlyBrainLab/Tutorials/tree/master/tutorials/getting_started)
+* (Updated!) [Introduction to FBL: Getting Started](https://github.com/FlyBrainLab/Tutorials/tree/master/tutorials/getting_started)
 * [Application Example: Olfactory Sensory Neurons: Electrophysiology and Morphology](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/osn_ephys_tutorial/OSN_ephys_tutorial.ipynb)
 
 ### Intermediate
@@ -13,4 +13,4 @@ This repository contains a collection of tutorials on FlyBrainLab covering the c
 * [Generating Diagrams with FlyBrainLab](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/diagram_generation_tutorial/generate_diagram.ipynb)
 
 ### Advanced
-* <span style="color:red">New!</span> [Creating an Interactive Executable Circuit Model of the Lamina Cartridge](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/cartridge/Cartridge.ipynb)
+* (New!) [Creating an Interactive Executable Circuit Model of the Lamina Cartridge](https://github.com/FlyBrainLab/Tutorials/blob/master/tutorials/cartridge/Cartridge.ipynb)
